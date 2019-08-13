@@ -1,0 +1,18 @@
+
+#simulation_graphique
+{
+    width:99,5%;
+    height:90%;
+    margin:auto;
+    border:1px solid rgb(0, 0, 0);
+    overflow:hidden;
+}
+
+
+#simulation_zone_graphique
+{
+    display:inline-block;
+    vertical-align:top;
+    padding:0px;
+    margin:0px;
+}
